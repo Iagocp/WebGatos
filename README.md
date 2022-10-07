@@ -93,13 +93,14 @@
 
 
 
-_Esta pagina web ha sido construida por java script vanilla y css_
 
 Mención honorífica a nuestro profesor Angel😁🖖, pasar por su perfil (@Kant003) y darle una ⭐.
 <br>
+_Esta pagina web ha sido construida por java script vanilla y css_
+<br>
  Si ~~no~~ quieres probarla entra en esta URL ----> https://iagocp.github.io/WebGatos/
 <br>
-Si sigues queriendo ver más gatos veta a wikipedia o al medico a lo mejor es obsesión ---->  https://es.wikipedia.org/wiki/Felis_silvestris_catus
+Si sigues queriendo ver más gatos vete a wikipedia o al medico a lo mejor es obsesión ---->  https://es.wikipedia.org/wiki/Felis_silvestris_catus
 
 
 > Tarea:

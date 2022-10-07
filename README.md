@@ -85,10 +85,10 @@
 
 |Nombre | Pelaje |Color | Peso| Altura|
 |  ---  |:-----: | ---- |-----| ----- |
-|Persa  |    largo    |  variedad alta de color del pelaje   |  2.3 a 6.8 kg   |   medio - grande   |
-|Siamés |     corto   |  claro  | 2.5 a 4.8 kg   |  medio     |
-|Azul Ruso  |  corto |  oscuro  | 2 a 4.5 kg    |    medio   |
-|Balinés|    Largo   | Claro   |  4.5  a 5.4 kg     | medio     |
+|Persa  |    Largo    |  Variedad alta de color del pelaje   |  2.3 a 6.8 kg   |   Medio - Grande   |
+|Siamés |     Corto   |  Claro  | 2.5 a 4.8 kg   |  Medio     |
+|Azul Ruso  |  Corto |  Oscuro  | 2 a 4.5 kg    |    Medio   |
+|Balinés|    Largo   | Claro   |  4.5  a 5.4 kg     | Medio     |
 
 
 

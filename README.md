@@ -95,7 +95,7 @@
 
 _Esta pagina web ha sido construida por java script vanilla y css_
 
-Mención honorífica a nuestro profesor Angel😁🖖, pasar por su perfil y darle una ⭐.
+Mención honorífica a nuestro profesor Angel😁🖖, pasar por su perfil (@Kant003) y darle una ⭐.
 <br>
  Si ~~no~~ quieres probarla entra en esta URL ----> https://iagocp.github.io/WebGatos/
 <br>
